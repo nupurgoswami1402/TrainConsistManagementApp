@@ -15,6 +15,9 @@ class PassengerBogie {
     public String toString() {
         return type + " (Capacity: " + capacity + ")";
     }
+
+    public String getType() {
+    }
 }
 
 // Main class (as requested: UC8)
